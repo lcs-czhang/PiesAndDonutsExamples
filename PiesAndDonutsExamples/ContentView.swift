@@ -92,3 +92,9 @@ struct PieView: View {
 #Preview {
     ContentView()
 }
+#Preview {
+    OneDimensionalView()
+}
+#Preview {
+    PieView()
+}
